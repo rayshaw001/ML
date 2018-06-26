@@ -1,2 +1,2 @@
 # Cataglory
-[Hands-On Machine Learning](./hands-on-machine-learning)
+[Hands-On Machine Learning](./hands-on-machine-learning.md)
